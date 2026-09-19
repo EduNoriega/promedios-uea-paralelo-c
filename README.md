@@ -29,7 +29,7 @@ Estudiante: Eduardo Luis Noriega Peñafiel - Paralelo C
 Estado: APROBADO
 
 ### 5. Video Explicativo
-Link del video (Google Drive): PEGA AQUI TU LINK
+Link del video (Google Drive): [PEGA AQUI TU LINK](https://youtu.be/XClaR8FgNNQ?si=qdomYDrT3umN3Dey)
 
 ### 6. Autor
 Eduardo Luis Noriega Peñafiel - UEA 2026
